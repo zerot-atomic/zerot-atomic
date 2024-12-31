@@ -28,13 +28,6 @@ I am Zerot, a *Full Stack unity dev* 💻 | *Open Source Enthusiast* 🚀 ❤️
   <img src="https://skillicons.dev/icons?i=unity" alt="Unity" />
   <img src="https://skillicons.dev/icons?i=arduino" alt="Arduino" />
   <img src="https://skillicons.dev/icons?i=bash" alt="Bash" />
-  <img src="https://skillicons.dev/icons?i=git" alt="Git" />
-  <img src="https://skillicons.dev/icons?i=jquery" alt="jQuery" />
-  <img src="https://skillicons.dev/icons?i=go" alt="Go" />
-  <img src="https://skillicons.dev/icons?i=java" alt="Java" />
-  <img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" />
-  <img src="https://skillicons.dev/icons?i=kali" alt="Kali Linux" />
-  <img src="https://skillicons.dev/icons?i=androidstudio" alt="Android Studio" />
 </p>
 
 ---
