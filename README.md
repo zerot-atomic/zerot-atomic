@@ -1,13 +1,16 @@
 # Hi there!! 👋
 
-I am Zerot, a *Full Stack unity dev* 💻 | *Open Source Enthusiast* 🚀 ❤️ Passionate about clean code (well done), collaboration, and continuous learning. I am a passionate student in constant development, learning and implementing through multiple projects. I love working with modern technologies and sharing knowledge with the community!
+I’m Zerot — a *Full Stack Unity Developer* and relentless learner with a sharp eye for clean architecture, human-centered design, and technological harmony. I build things that work — and work well.
+
+🎮 From crafting immersive experiences in Unity to designing backend logic that just makes sense, I’m always pushing myself to deliver code that’s elegant, efficient, and purposeful.
+
+📚 I thrive in collaborative environments where knowledge flows freely and curiosity leads the way.
 
 ---
 
 ### 🔗 How to reach me:
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/tu-perfil/) 
-[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/tu-perfil/) 
-[![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/users/tu-perfil)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/carlos-fernando-mart%C3%ADnez-hern%C3%A1ndez-0ab09b333/)  
+[![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/users/zerotatom)
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:zerotatomic@gmail.com)
 
 ---
@@ -55,3 +58,18 @@ I am Zerot, a *Full Stack unity dev* 💻 | *Open Source Enthusiast* 🚀 ❤️
   <img src="https://skillicons.dev/icons?i=windows" alt="Windows" />
   <img src="https://skillicons.dev/icons?i=apple" alt="Apple" />
 </p>
+---
+
+### 🚧 Projects & Highlights
+
+🔹 **E-commerce platform backend (Private Repo)**  
+*Technologies:* Node.js, PostgreSQL, Docker  
+Contributed to core API design and user authentication logic. Collaborated across 3 teams under Git workflows.
+
+🔹 **2D Platformer in Unity**  
+A personal project focused on movement mechanics and performance optimization using ECS and ScriptableObjects. *(Coming soon in GitHub)*
+
+🔹 **IoT Environmental Monitor (Arduino + Python)**  
+Gathered sensor data and displayed real-time results on a custom dashboard.
+
+> 📌 Ask me about these projects — I’d love to talk more.
